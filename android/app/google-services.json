@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "408491033836",
+    "firebase_url": "https://musicshare-320d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "musicshare-320d5",
+    "storage_bucket": "musicshare-320d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408491033836:android:32c8a77758ff0ecba951c9",
+        "android_client_info": {
+          "package_name": "com.example.music_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHofN7p32ul72Nu5FZrmU2r4paa1ftvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
