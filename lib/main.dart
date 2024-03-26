@@ -114,6 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
             controller: _textEditingController,
             decoration: const InputDecoration(hintText: "Enter video id"),
             onSubmitted: (value) {
+              starCountRef.set(value);
               _controller.loadVideoById(videoId: value);
             },
           ),
